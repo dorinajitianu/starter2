@@ -1,3 +1,4 @@
 lfs.jpg filter=lfs diff=lfs merge=lfs -text
 lfs.mp4 filter=lfs diff=lfs merge=lfs -text
 lfs.txt filter=lfs diff=lfs merge=lfs -text
+big.jpg filter=lfs diff=lfs merge=lfs -text
