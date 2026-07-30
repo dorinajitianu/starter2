@@ -4,8 +4,7 @@
     <title>My first topic</title>
     <body>
         <p>Welcome to your first <ph keyref="product"/>.</p>
-        <p>You can <object data="../images/lfs.mp4" id="image_fvh_jxl_bkc" outputclass="video"
-                type="video/mp4"/> add images  or use reusable content:</p>
+        <p>You can <object data="../images/lfs.mp4" type="video/mp4"/> add images  or use reusable content:</p>
         <p>image lfs <image href="../images/lfs.jpg" id="image_ed5_nfn_bkc"/></p>
         <note conref="../reusables/reusable_components.dita#reusable_notes/reusable_note"
             id="note_rtg_hc1_bpb"/>
